@@ -6,7 +6,8 @@
   ],
   "comments": [
     { "id": 1, "body": "Comentario 1", "postId": 1 },
-    { "id": 2, "body": "Comentario 2", "postId": 1 }
+    { "id": 2, "body": "Comentario 2", "postId": 1 },
+    { "id": 3, "body": "Comentario de MapaChuy", "postId": 3 }
   ],
   "profile": {
     "name": "IronHack Part Time"
